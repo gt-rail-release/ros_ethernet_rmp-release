@@ -15,11 +15,11 @@ tracks:
     name: upstream
     patches: null
     release_inc: '0'
-    release_repo_url: git@github.com:wpi-rail-release/ros_ethernet_rmp-release.git
+    release_repo_url: git@github.com:gt-rail-release/ros_ethernet_rmp-release.git
     release_tag: :{version}
     ros_distro: indigo
     vcs_type: git
-    vcs_uri: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
+    vcs_uri: https://github.com/GT-RAIL/ros_ethernet_rmp.git
     version: :{auto}
   jade:
     actions:
@@ -37,9 +37,9 @@ tracks:
     name: upstream
     patches: null
     release_inc: '0'
-    release_repo_url: git@github.com:wpi-rail-release/ros_ethernet_rmp-release.git
+    release_repo_url: git@github.com:gt-rail-release/ros_ethernet_rmp-release.git
     release_tag: :{version}
     ros_distro: jade
     vcs_type: git
-    vcs_uri: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
+    vcs_uri: https://github.com/GT-RAIL/ros_ethernet_rmp.git
     version: :{auto}
