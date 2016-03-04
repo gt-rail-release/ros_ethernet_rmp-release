@@ -5,7 +5,7 @@ The packages in the `ros_ethernet_rmp` repository were released into the `jade` 
 The `ros_ethernet_rmp` package was released.
 
 Version of package(s) in repository `ros_ethernet_rmp`:
-- upstream repository: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
+- upstream repository: https://github.com/GT-RAIL/ros_ethernet_rmp.git
 - release repository: unknown
 - rosdistro version: `null`
 - old version: `null`
@@ -26,8 +26,8 @@ The packages in the `ros_ethernet_rmp` repository were released into the `indigo
 The `ros_ethernet_rmp` package was released.
 
 Version of package(s) in repository `ros_ethernet_rmp`:
-- upstream repository: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
-- release repository: https://github.com/wpi-rail-release/ros_ethernet_rmp-release.git
+- upstream repository: https://github.com/GT-RAIL/ros_ethernet_rmp.git
+- release repository: https://github.com/gt-rail-release/ros_ethernet_rmp-release.git
 - rosdistro version: `0.0.7-0`
 - old version: `0.0.7-0`
 - new version: `0.0.8-0`
@@ -47,8 +47,8 @@ The packages in the `ros_ethernet_rmp` repository were released into the `indigo
 The `ros_ethernet_rmp` package was released.
 
 Version of package(s) in repository `ros_ethernet_rmp`:
-- upstream repository: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
-- release repository: https://github.com/wpi-rail-release/ros_ethernet_rmp-release.git
+- upstream repository: https://github.com/GT-RAIL/ros_ethernet_rmp.git
+- release repository: https://github.com/gt-rail-release/ros_ethernet_rmp-release.git
 - rosdistro version: `0.0.6-0`
 - old version: `0.0.6-0`
 - new version: `0.0.7-0`
@@ -68,8 +68,8 @@ The packages in the `ros_ethernet_rmp` repository were released into the `indigo
 The `ros_ethernet_rmp` package was released.
 
 Version of package(s) in repository `ros_ethernet_rmp`:
-- upstream repository: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
-- release repository: https://github.com/wpi-rail-release/ros_ethernet_rmp-release.git
+- upstream repository: https://github.com/GT-RAIL/ros_ethernet_rmp.git
+- release repository: https://github.com/gt-rail-release/ros_ethernet_rmp-release.git
 - rosdistro version: `0.0.5-0`
 - old version: `0.0.5-1`
 - new version: `0.0.6-0`
@@ -89,8 +89,8 @@ The packages in the `ros_ethernet_rmp` repository were released into the `indigo
 The `ros_ethernet_rmp` package was released.
 
 Version of package(s) in repository `ros_ethernet_rmp`:
-- upstream repository: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
-- release repository: https://github.com/wpi-rail-release/ros_ethernet_rmp-release.git
+- upstream repository: https://github.com/GT-RAIL/ros_ethernet_rmp.git
+- release repository: https://github.com/gt-rail-release/ros_ethernet_rmp-release.git
 - rosdistro version: `0.0.5-0`
 - old version: `0.0.5-0`
 - new version: `0.0.5-1`
@@ -110,8 +110,8 @@ The packages in the `ros_ethernet_rmp` repository were released into the `indigo
 The `ros_ethernet_rmp` package was released.
 
 Version of package(s) in repository `ros_ethernet_rmp`:
-- upstream repository: https://github.com/WPI-RAIL/ros_ethernet_rmp.git
-- release repository: https://github.com/wpi-rail-release/ros_ethernet_rmp-release.git
+- upstream repository: https://github.com/GT-RAIL/ros_ethernet_rmp.git
+- release repository: https://github.com/gt-rail-release/ros_ethernet_rmp-release.git
 - rosdistro version: `0.0.4-0`
 - old version: `0.0.4-0`
 - new version: `0.0.5-0`
